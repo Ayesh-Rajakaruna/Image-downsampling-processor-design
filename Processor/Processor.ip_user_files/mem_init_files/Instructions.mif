@@ -1,0 +1,84 @@
+-- Copyright (C) 2018  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=256;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=UNS;
+
+CONTENT BEGIN
+	0    :   49407;
+	1    :   12546;
+	2    :   39168;
+	3    :   39680;
+	4    :   39424;
+	5    :   39936;
+	6    :   4608;
+	7    :   13571;
+	8    :   43264;
+	9    :   4608;
+	10   :   13569;
+	11   :   21248;
+	12   :   33280;
+	13   :   12549;
+	14   :   8704;
+	15   :   12801;
+	16   :   26880;
+	17   :   16917;
+	18   :   43264;
+	19   :   43776;
+	20   :   16390;
+	21   :   39168;
+	22   :   39680;
+	23   :   12801;
+	24   :   27136;
+	25   :   16925;
+	26   :   44032;
+	27   :   43520;
+	28   :   16390;
+	29   :   39168;
+	30   :   39424;
+	31   :   39680;
+	32   :   39936;
+	33   :   49407;
+	34   :   12546;
+	35   :   4608;
+	36   :   13571;
+	37   :   43520;
+	38   :   4608;
+	39   :   13569;
+	40   :   21248;
+	41   :   33280;
+	42   :   12549;
+	43   :   8704;
+	44   :   12801;
+	45   :   27136;
+	46   :   16946;
+	47   :   43520;
+	48   :   44032;
+	49   :   16419;
+	50   :   39424;
+	51   :   39936;
+	52   :   12801;
+	53   :   26880;
+	54   :   16954;
+	55   :   43776;
+	56   :   43264;
+	57   :   16419;
+	58   :   61440;
+	[59..255]  :   0;
+END;
