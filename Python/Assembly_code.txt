@@ -1,0 +1,3 @@
+LOADK 12
+LOAD AC
+END
